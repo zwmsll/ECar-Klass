@@ -1,0 +1,33 @@
+{
+  "name": "Ecar-Klass",
+  "authors": [
+    "zhangweiming <zwmsll@126.com>"
+  ],
+  "description": "bower-test animations for chexiang",
+  "main": [
+    "dist/Klass.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Klass"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests",
+    "test-infra"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
