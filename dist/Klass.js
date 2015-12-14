@@ -1,3 +1,9 @@
+/*
+* name : Klass
+* version : v1.1.0
+* authors : zhangweiming
+*/
+
 var isArray = Array.isArray || function(val) {
     return toString.call(val) === '[object Array]';
 }
